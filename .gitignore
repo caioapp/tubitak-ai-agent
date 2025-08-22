@@ -1,0 +1,6 @@
+.DS_Store
+~
+*.code-workspace
+notebooks/.DS_Store
+notebooks/datasets_v4/
+notebooks/outputs_b_section/
